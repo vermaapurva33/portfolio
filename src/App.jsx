@@ -16,7 +16,7 @@ function App() {
     <main>
       <div className='bg-black p-4 mt-0.5 ml-0.5 mr-0.5 mb-2 rounded-b-md drop-shadow-sm drop-shadow-amber-50 flex flex-row'>
         <div className='mt-1 mb-1 w-1/2 rounded-4xl flex flex-col justify-center items-center'>
-          <img src="../public/profile2.jpeg" alt="" className='rounded-full overflow-hidden w-50 h-50 hover:scale-110 hover:shadow-md hover:shadow-amber-100'/>
+          <img src="/profile2.jpeg" alt="" className='rounded-full overflow-hidden w-50 h-50 hover:scale-110 hover:shadow-md hover:shadow-amber-100'/>
           <p className='text-2xl text-shadow-indigo-400 text-amber-50 font-extrabold m-4'>Apurva Verma</p>
           <p className='text-2xl text-shadow-indigo-400 text-amber-50'>Stuednt at PDPM IIITDM Jabalpur</p>
           <p className='text-2xl text-shadow-indigo-400 text-amber-50'></p>
