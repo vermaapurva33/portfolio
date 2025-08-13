@@ -21,7 +21,7 @@ function Services() {
             </div>
             <div className='p-6 flex flex-col items-center border-1 border-blue-400 rounded-2xl hover:border-black hover:scale-110 hover:bg-gray-950 hover:shadow-blue-300 hover:shadow-md m-5'>
                 <img src="/node.webp" alt="not found" className='w-40 h-40 rounded-2xl' />
-                <p className='text-2xl text-white m-2'>Loan </p>
+                <p className='text-2xl text-white m-2'>Node JS </p>
             </div>
 
         </div>
